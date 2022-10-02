@@ -1,1 +1,2 @@
 # RedesNeuronales2021
+En este repositorio se encuentra la resolución de los trabajos prácticos de la materia Redes Neuronales que dicta la FAMAF en la UNC. Las carpetas contienen los archivos pdf del informe correspondiente a cada trabajo práctico necesario para la regularización de la materia, junto con su archivo .ipynb donde estan los códigos con la resolución de las consignas del mismo. El archivo integrador contempla todos los contenidos vistos en la materia y es con cual se rinde su examen final.
